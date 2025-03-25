@@ -1,5 +1,5 @@
 public class Calculator {
-    // Malas prácticas: variable no descriptiva, método innecesario
+    // Malas prácticas: variable no riptiva, método innecesario
     private int x;
 
     public int sumar(int a, int b) {
